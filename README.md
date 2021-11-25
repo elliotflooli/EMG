@@ -1,1 +1,4 @@
-# EMG
+# Electromiografía (EMG)
+Este repositorio contiene diversos estudios relacionados con la adquisición y análisis de señales de EMG. La finalidad del EMG sirve para diagnosticar padecimientos relacionados con la actividad eléctrica de los músculos o como interactúan las unidades motoras entre sí, sin embargo, el estudio de señales fisiológicas es muy importante para el desarrollo de nuevas tecnologías e innovaciones en el campo biotecnológico.
+
+Se elaboró este repositorio de diversos procesamientos de señales con el uso del repositorio de la Dra. Erin Mckiernan, utilizando los datos registrados por alumnos  y algunos análisis ya elaborados. La finalidad de la creación de este repositorio es elaborar Notebooks de registros y análisis de señales para ampliar el campo de estudio en temas relacionados con la electromiografía, esperando que el interés crezca en futuros científicos.
